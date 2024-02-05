@@ -3,7 +3,8 @@
 
 Deploying EKS Cluster using Terraform and Jenkins
 
-![Diagram](https://raw.githubusercontent.com/fuyyzet/project-1/main/EKS/Untitled%20Diagram.drawio)
+![test drawio](https://github.com/fuyyzet/project-1/assets/116317525/e6b60e4d-76a4-47e2-90c2-e97671ea2be7)
 
-![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
+
+
 
